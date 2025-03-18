@@ -24,7 +24,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JulianSmart | Loom" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][loom]
+[<img align="left" alt="JulianSmart | Loom" width="22px" src="https://i.imgur.com/IFijwrN.png" />][loom]
 [<img align="left" alt="JulianSmart | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
