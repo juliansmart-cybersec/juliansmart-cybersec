@@ -2,6 +2,9 @@
 
 <h1>Google Doc: Cybersecurity Portfolio<br/><a/a></h1> https://docs.google.com/document/d/1q1goMaSS2qwboCfJKttCrHN9Xf-taFgQ6j7b1jGQSZ0/edit?usp=sharing
 
+
+
+This Github repository is currently under construction. For the full Cybersecurity Portfolio, refer to the Google Docs link above, thank you.
 <h2> 🤳 Connect with me:</h2>
 
 
